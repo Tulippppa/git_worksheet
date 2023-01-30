@@ -20,4 +20,6 @@ g:::::gg   gg:::::g
  g::::::ggg:::::::g                                
   gg:::::::::::::g                                 
     ggg::::::ggg                                   
-       gggggg                                      
+       gggggg    
+       
+# Git is a command line program, it runs on terminal and goes in line by line saving changes and can let you see the edits. In order to see the edits, they will not show unless you committ them. You can also create your own branches to allow you to make your own individual changes without changing everyone elses work. 
