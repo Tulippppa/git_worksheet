@@ -1,5 +1,5 @@
 # to count the lines in octocat.txt
-# it happens.
+# It happens
 # Conflict!
 octocat = readLines("./octocat.txt")
 
